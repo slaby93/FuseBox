@@ -1,0 +1,24 @@
+{
+  "name": "FuseBox",
+  "version": "1.0.0",
+  "description": "Funny fusybox test repo",
+  "main": "index.js",
+  "repository": "https://github.com/slaby93/FuseBox",
+  "author": "Daniel Słaby <pufek93@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "fuse-box": "^2.0.0",
+    "node-sass": "^4.5.2"
+  },
+  "scripts": {
+    "start": "node fuse.js"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.9",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
